@@ -1,0 +1,5 @@
+com/netease/sloth/examples/udf/ToIntegerUDF.class
+com/netease/sloth/examples/udtf/AddTsParser.class
+com/netease/sloth/examples/udtf/TestUDTF.class
+com/netease/sloth/examples/extractor/CSVTimeExtractor.class
+com/netease/sloth/examples/udaf/IntegerSumUDAF.class

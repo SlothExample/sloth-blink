@@ -1,0 +1,5 @@
+/Users/huangkaixuan/Downloads/sloth-udf-1/sloth-udf/src/main/java/com/netease/sloth/examples/udf/ToIntegerUDF.java
+/Users/huangkaixuan/Downloads/sloth-udf-1/sloth-udf/src/main/java/com/netease/sloth/examples/udaf/IntegerSumUDAF.java
+/Users/huangkaixuan/Downloads/sloth-udf-1/sloth-udf/src/main/java/com/netease/sloth/examples/extractor/CSVTimeExtractor.java
+/Users/huangkaixuan/Downloads/sloth-udf-1/sloth-udf/src/main/java/com/netease/sloth/examples/udtf/AddTsParser.java
+/Users/huangkaixuan/Downloads/sloth-udf-1/sloth-udf/src/main/java/com/netease/sloth/examples/udtf/TestUDTF.java
